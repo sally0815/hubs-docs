@@ -3,7 +3,7 @@ id: spoke-creating-projects
 title: Create Project
 ---
 In Spoke, you can either create a new project from Scratch, remix an existing Hubs scene, or import a Spoke project someone sends you. 
-
+스포크에서는 Scratch를 통해 새로운 프로젝트를 만들수있습니다. remix를 이용해 이미 허브클라우드에서 만들어진 scene을 수정하거나 혹은 다른 사람이 만든 프로젝트를 가져옵니다 
 ## Start a new project
 
 To create a new Spoke project head to [hubs.mozilla.com/spoke](https://hubs.mozilla.com/spoke) and click ‘Get Started’.
