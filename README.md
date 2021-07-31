@@ -1,4 +1,4 @@
-# Mozilla Hubs Docs
+# 모질라 허브 문서
 
 This repo is for the documentation for [Mozilla Hubs](http://hubs.mozilla.com), and related products such as Hubs Cloud and Spoke. 
 
